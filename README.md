@@ -170,7 +170,7 @@ Smart resume feedback & scoring tool
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rehman6112006/rehman6112006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rehman6112006/rehman6112006/main/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>⚠️ Snake animation activates automatically once GitHub Action runs (setup steps below)</sub>
 </div>
