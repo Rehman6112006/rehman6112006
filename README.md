@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2BE2&height=220&section=header&text=Rehman%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20Developer%20|%20Building%20FYME&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2BE2&height=220&section=header&text=Abdul Rehman%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20Developer%20|%20Building%20FYME&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+GCT+%26+SZIIT+Grad;Full+Stack+%7C+MERN+%2B+Next.js+%2B+FastAPI;AI+Agent+Builder+%7C+LangGraph+%2B+CrewAI;Founder+%40+FYME+(eBay+%7C+Etsy+%7C+TikTok+Shop);Mobile+Dev+%7C+React+Native+%2B+Flutter" />
 
