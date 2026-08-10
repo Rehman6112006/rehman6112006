@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2BE2&height=220&section=header&text=AbdulRehman%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20Developer%20|%20Building%20FYME&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2BE2&height=220&section=header&text=Rehman%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20Developer%20|%20Building%20FYME&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+GCT+%26+SZIIT+Grad;Full+Stack+%7C+MERN+%2B+Next.js+%2B+FastAPI;AI+Agent+Builder+%7C+LangGraph+%2B+CrewAI;Founder+%40+FYME+(eBay+%7C+Etsy+%7C+TikTok+Shop);Mobile+Dev+%7C+React+Native+%2B+Flutter" />
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8A2BE2&height=4"/>
 
 ## 🧑‍💻 About Me
 
@@ -35,7 +35,7 @@ fun_fact: "Ex-Teaching Assistant @ SZIIT 🇨🇳"
 - 📚 Currently applying for **BSCS admission** in Pakistan + international scholarships
 - ⚡ Fun fact: I like building things *with* AI as much as building AI itself
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8A2BE2&height=4"/>
 
 ## 🧰 Tech Arsenal
 
@@ -45,27 +45,37 @@ fun_fact: "Ex-Teaching Assistant @ SZIIT 🇨🇳"
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,flutter&theme=dark" />
 
+<br/><br/>
+
 **Backend & APIs**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,spring,java&theme=dark" />
+
+<br/><br/>
 
 **Database & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgresql,vercel,githubactions&theme=dark" />
 
-**AI / Agentic Tooling**
-<br/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<br/><br/>
 
 **Mobile & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,vscode,postman,npm&theme=dark" />
+
+<br/><br/>
+
+**AI / Agentic Tooling**
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
 
 **Payments & Commerce**
 <br/>
@@ -74,13 +84,15 @@ fun_fact: "Ex-Teaching Assistant @ SZIIT 🇨🇳"
 <img src="https://img.shields.io/badge/Etsy-F16521?style=for-the-badge&logo=etsy&logoColor=white"/>
 <img src="https://img.shields.io/badge/TikTok_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 
-**Chinese Proficiency**
+<br/><br/>
+
+**Language**
 <br/>
-<img src="https://img.shields.io/badge/HSK3-DE2910?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/HSK3_Chinese-DE2910?style=for-the-badge&logoColor=white"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8A2BE2&height=4"/>
 
 ## 🚀 Featured Projects
 
@@ -88,55 +100,55 @@ fun_fact: "Ex-Teaching Assistant @ SZIIT 🇨🇳"
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 Flikcart
 Modern e-commerce platform built for speed & scale
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏪 MyMart
 Multi-vendor marketplace with real-time payments
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 WhatsApp AI Chatbot
 Automated customer support via WhatsApp
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Meta_API-1877F2?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 MCP Tool-Calling Agent
 Agentic AI system with tool orchestration
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square"/> <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✈️ Visa Assistance Chatbot
 RAG-powered visa guidance assistant
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/ZhipuAI-FF6A00?style=flat-square"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📄 AI Resume Analyzer
 Smart resume feedback & scoring tool
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI-D97757?style=flat-square"/>
 
 </td>
@@ -145,7 +157,7 @@ Smart resume feedback & scoring tool
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8A2BE2&height=4"/>
 
 ## 📊 GitHub Analytics
 
@@ -157,25 +169,30 @@ Smart resume feedback & scoring tool
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehman6112006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehman6112006&theme=react-dark&hide_border=true&bg_color=0d1117&color=2E9EF7&line=8A2BE2&point=ffffff" width="65%"/>
 
 <br/><br/>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehman6112006&theme=react-dark&hide_border=true&bg_color=0d1117&color=2E9EF7&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" width="90%"/>
+
+<br/><br/>
+
+### 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=rehman6112006&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8A2BE2&height=4"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rehman6112006/rehman6112006/main/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚠️ Snake animation activates automatically once GitHub Action runs (setup steps below)</sub>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8A2BE2&height=4"/>
 
 <div align="center">
 
